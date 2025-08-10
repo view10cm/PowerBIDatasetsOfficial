@@ -1,0 +1,12 @@
+accountID,accountName,accountGrade,accountSection,accountCourse,subjectID,subjectName,grades,professorID,professorName
+2022-00100,Lee Chong Wei,1,1,IT,100,Programming,90,A,Mr. Balocon
+2022-00101,Lin Dan,2,1,IT,100,Programming,95,A,Mr. Balocon
+2022-00102,Kunlavut Vitidsarn,2,2,HR,100,Programming,80,A,Mr. Balocon
+2022-00103,Chiharu Shida,1,2,MM,200,Marketing,95,B,Ms. Villanueva
+2022-00104,Zheng Si Wei,3,1,IT,100,Programming,95,A,Mr. Balocon
+2022-00105,Lee Yong Dae,2,2,HR,200,Marketing,80,B,Ms. Villanueva
+2022-00106,Seo Seung Jae,4,2,IT,200,Marketing,79,B,Ms. Villanueva
+2022-00107,Lee Zii Jia,3,1,IT,200,Marketing,98,B,Ms. Villanueva
+2022-00108,Satwiraaj Rankireddy,2,1,HR,300,Human Resourcing,99,C,Ms. Alinsod
+2022-00109,Chirag Shetty,2,2,MM,300,Human Resourcing,85,C,Ms. Alinsod
+2022-00110,Chae Yu Jung,1,2,MM,100,Programming,80,A,Mr. Balocon
