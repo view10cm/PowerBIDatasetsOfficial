@@ -1,0 +1,11 @@
+accountID,accountName,accountMMR,accountRank,wins,loss,heroID,favoriteHero,itemsone,itemstwo,itemsthree,roleID,roleName
+100001,Nginig,1250,Guardian,250,156,1,Phantom Assassin,Desolator,Nullifier,Daedalus,1,Safe Lane
+100002,Ngisay,1750,Guardian,220,127,2,Dazzle,Holy Locket,Force Staff,Glimmer Cape,5,Hard Support
+100003,Ngimay,2250,Crusader,700,427,3,Pudge,Pipe of Insight,Aether Lens,Rod of Atos,3,Offlane
+100004,Ngilo,3400,Archon,1500,520,4,Windranger,Monkey King Bar,Black King Bar,Aghanims Scepter,4,Soft Support
+100005,Ngipin,5400,Immortal,4657,400,5,Invoker,Ethereal Blade,Linken Sphere,Scythe of Vyse,2,Mid Lane
+100006,Ngisi,1790,Guardian,126,50,6,Io,Mekansm,Boots of Travel,Bracer,5,Hard Support
+100007,Ngiyaw,3000,Legend,3689,1632,1,Phantom Assassin,Desolator,Daedalus,Nullifier,1,Safe Lane
+100008,Ngisngis,2894,Legend,3267,2101,2,Dazzle,Force Staff,Glimmer Cape,Holy Locket,5,Hard Support
+100009,Ngisi,3245,Legend,2810,1200,4,Windranger,Black King Bar,Aghanims Scepter,Monkey King Bar,4,Soft Support
+100010,Nyawet,100,Herald,70,50,3,Pudge,Aether Lens,Rod of Atos,Pipe of Insight,3,Offlane
